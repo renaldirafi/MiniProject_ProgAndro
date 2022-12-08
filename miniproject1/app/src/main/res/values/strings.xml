@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">71200628</string>
+    <string-array name="daftar_provinsi">
+        <item>Pilih Kota</item>
+        <item>Jakarta</item>
+        <item>Yogyakarta</item>
+        <item>Bali</item>
+    </string-array>
+    <string-array name="Kelas">
+        <item>Pilih Kelas</item>
+        <item>Ekonomi</item>
+        <item>Business</item>
+    </string-array>
+</resources>
