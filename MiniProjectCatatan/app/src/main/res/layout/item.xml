@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="20dp">
+    <TextView
+        android:id="@+id/txv_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="JUDUL"
+        android:textSize="30sp"
+        android:textColor="@color/black"
+        />
+    <TextView
+        android:id="@+id/txv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="content"
+        android:textSize="20sp"
+        android:textColor="@color/black"
+        />
+
+
+</LinearLayout>

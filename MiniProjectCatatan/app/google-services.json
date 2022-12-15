@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818133473995",
+    "project_id": "miniprojectcatatan",
+    "storage_bucket": "miniprojectcatatan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818133473995:android:5931ce08b4a663b18e994e",
+        "android_client_info": {
+          "package_name": "com.example.miniprojectcatatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818133473995-j1dj9oeii2bs5ji54kkdae335gq3onre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMq0OIDQbmZr98PpYCk9d30P-V5Em3Ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818133473995-j1dj9oeii2bs5ji54kkdae335gq3onre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
